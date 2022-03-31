@@ -1,6 +1,8 @@
 #include <stdint.h>
 #include <stdlib.h>
 
+/* I think my code is the most beautiful thing in the world!*/
+
 int main(int argv,char *argc[])
 {
     uint8_t out = 0;
